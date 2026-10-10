@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "CCC"
+  ],
+  "key": {
+    "C": "framedfabric:framed_cube"
+  },
+  "result": {
+    "id": "framedfabric:framed_slab",
+    "count": 6
+  }
+}

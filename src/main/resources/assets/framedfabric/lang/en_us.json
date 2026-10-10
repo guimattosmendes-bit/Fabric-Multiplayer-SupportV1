@@ -1,0 +1,17 @@
+{
+  "block.framedfabric.framed_cube": "Framed Cube",
+  "item.framedfabric.framed_cube": "Framed Cube",
+  "block.framedfabric.framed_slab": "Framed Slab",
+  "item.framedfabric.framed_slab": "Framed Slab",
+  "block.framedfabric.framed_stairs": "Framed Stairs",
+  "item.framedfabric.framed_stairs": "Framed Stairs",
+  "block.framedfabric.framed_panel": "Framed Panel",
+  "item.framedfabric.framed_panel": "Framed Panel",
+  "block.framedfabric.framed_fence": "Framed Fence",
+  "item.framedfabric.framed_fence": "Framed Fence",
+  "block.framedfabric.framed_wall": "Framed Wall",
+  "item.framedfabric.framed_wall": "Framed Wall",
+  "block.framedfabric.framed_trapdoor": "Framed Trapdoor",
+  "item.framedfabric.framed_trapdoor": "Framed Trapdoor",
+  "item.framedfabric.framed_hammer": "Framed Hammer"
+}

@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "framedfabric",
+	"version": "${version}",
+	"name": "Framed Fabric",
+	"description": "Blocos-moldura que imitam a aparencia de qualquer bloco solido. Inspirado no FramedBlocks (XFactHD).",
+	"authors": ["Voce"],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["dev.framedfabric.FramedFabric"],
+		"client": ["dev.framedfabric.client.FramedFabricClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

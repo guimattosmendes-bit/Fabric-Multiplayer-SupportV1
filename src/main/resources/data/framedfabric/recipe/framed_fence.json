@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "CSC",
+    "CSC"
+  ],
+  "key": {
+    "C": "framedfabric:framed_cube",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "framedfabric:framed_fence",
+    "count": 3
+  }
+}

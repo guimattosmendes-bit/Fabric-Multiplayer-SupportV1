@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "framedfabric:block/frame",
+    "top": "framedfabric:block/frame",
+    "side": "framedfabric:block/frame"
+  }
+}

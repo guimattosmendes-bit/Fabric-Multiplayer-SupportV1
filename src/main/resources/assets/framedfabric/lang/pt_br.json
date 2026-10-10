@@ -1,0 +1,17 @@
+{
+  "block.framedfabric.framed_cube": "Cubo Moldura",
+  "item.framedfabric.framed_cube": "Cubo Moldura",
+  "block.framedfabric.framed_slab": "Laje Moldura",
+  "item.framedfabric.framed_slab": "Laje Moldura",
+  "block.framedfabric.framed_stairs": "Escada Moldura",
+  "item.framedfabric.framed_stairs": "Escada Moldura",
+  "block.framedfabric.framed_panel": "Painel Moldura",
+  "item.framedfabric.framed_panel": "Painel Moldura",
+  "block.framedfabric.framed_fence": "Cerca Moldura",
+  "item.framedfabric.framed_fence": "Cerca Moldura",
+  "block.framedfabric.framed_wall": "Muro Moldura",
+  "item.framedfabric.framed_wall": "Muro Moldura",
+  "block.framedfabric.framed_trapdoor": "Alcapao Moldura",
+  "item.framedfabric.framed_trapdoor": "Alcapao Moldura",
+  "item.framedfabric.framed_hammer": "Martelo de Moldura"
+}

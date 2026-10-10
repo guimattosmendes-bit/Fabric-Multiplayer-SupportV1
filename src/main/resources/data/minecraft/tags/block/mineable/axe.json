@@ -1,0 +1,11 @@
+{
+  "values": [
+    "framedfabric:framed_cube",
+    "framedfabric:framed_slab",
+    "framedfabric:framed_stairs",
+    "framedfabric:framed_panel",
+    "framedfabric:framed_fence",
+    "framedfabric:framed_wall",
+    "framedfabric:framed_trapdoor"
+  ]
+}

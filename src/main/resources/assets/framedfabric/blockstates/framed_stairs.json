@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": {
+      "fabric:type": "framedfabric:framed",
+      "frame_model": {
+        "model": "framedfabric:block/frame"
+      }
+    }
+  }
+}
